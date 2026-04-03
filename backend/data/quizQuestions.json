@@ -1,0 +1,152 @@
+[
+  {
+    "id": "q1",
+    "question": "How does your skin feel a few hours after washing your face with a gentle cleanser?",
+    "options": [
+      { "value": "a", "label": "Shiny and greasy all over" },
+      { "value": "b", "label": "Tight, dry or flaky" },
+      { "value": "c", "label": "Oily in the T-zone (forehead, nose, chin) but dry on cheeks" },
+      { "value": "d", "label": "Red, itchy or irritated" }
+    ]
+  },
+  {
+    "id": "q2",
+    "question": "How often does your skin look noticeably shiny throughout the day?",
+    "options": [
+      { "value": "a", "label": "Always — within an hour of washing" },
+      { "value": "b", "label": "Only in the T-zone by midday" },
+      { "value": "c", "label": "Rarely — my skin tends to look matte or dull" },
+      { "value": "d", "label": "Never — my skin stays consistently matte" }
+    ]
+  },
+  {
+    "id": "q3",
+    "question": "How does your skin typically react when you try a new skincare product?",
+    "options": [
+      { "value": "a", "label": "It often breaks out, turns red or burns" },
+      { "value": "b", "label": "It sometimes feels drier or more irritated" },
+      { "value": "c", "label": "It might feel a little tight at first" },
+      { "value": "d", "label": "Usually no reaction — it adjusts quickly" }
+    ]
+  },
+  {
+    "id": "q4",
+    "question": "How would you describe the size of your pores?",
+    "options": [
+      { "value": "a", "label": "Large and very visible, especially on the nose and cheeks" },
+      { "value": "b", "label": "Medium — visible mainly on the nose and chin" },
+      { "value": "c", "label": "Small and barely visible" },
+      { "value": "d", "label": "My pores are often red or inflamed-looking" }
+    ]
+  },
+  {
+    "id": "q5",
+    "question": "How often do you experience breakouts or acne?",
+    "options": [
+      { "value": "a", "label": "Frequently — clogged pores, blackheads, or pimples are common" },
+      { "value": "b", "label": "Occasionally — mostly in the T-zone or before my period" },
+      { "value": "c", "label": "Rarely — but when I do, they're red and inflamed" },
+      { "value": "d", "label": "Rarely or never — breakouts aren't really my issue" }
+    ]
+  },
+  {
+    "id": "q6",
+    "question": "How does your skin feel immediately after cleansing (without applying anything)?",
+    "options": [
+      { "value": "a", "label": "Tight, dry and uncomfortable" },
+      { "value": "b", "label": "Sensitive, slightly stinging or irritated" },
+      { "value": "c", "label": "Clean but already producing some oil" },
+      { "value": "d", "label": "Balanced — comfortable without needing moisturizer right away" }
+    ]
+  },
+  {
+    "id": "q7",
+    "question": "Do you experience dry patches, flakiness, or rough texture on your face?",
+    "options": [
+      { "value": "a", "label": "Yes, very often — especially around my mouth, nose, and eyebrows" },
+      { "value": "b", "label": "Sometimes, especially in cold weather or after strong products" },
+      { "value": "c", "label": "Occasionally in patches while other areas are oily" },
+      { "value": "d", "label": "Rarely or never" }
+    ]
+  },
+  {
+    "id": "q8",
+    "question": "How does your skin react to sun exposure?",
+    "options": [
+      { "value": "a", "label": "Burns easily, turns red quickly — very reactive" },
+      { "value": "b", "label": "Gets drier and more prone to flaking" },
+      { "value": "c", "label": "Gets shinier and may break out more" },
+      { "value": "d", "label": "Tans evenly without much sensitivity" }
+    ]
+  },
+  {
+    "id": "q9",
+    "question": "What is your skin's overall texture like?",
+    "options": [
+      { "value": "a", "label": "Thick, rough, with visible pores and blemishes" },
+      { "value": "b", "label": "Thin, tight, sometimes flaky or crepey" },
+      { "value": "c", "label": "Different textures in different zones — oily in some, dry in others" },
+      { "value": "d", "label": "Often bumpy, rough, or uneven due to reactions" }
+    ]
+  },
+  {
+    "id": "q10",
+    "question": "How often do you feel the need to blot or absorb excess oil from your face?",
+    "options": [
+      { "value": "a", "label": "Multiple times a day — blotting papers are my best friend" },
+      { "value": "b", "label": "Sometimes around my nose and forehead by afternoon" },
+      { "value": "c", "label": "Rarely — my skin doesn't produce much oil" },
+      { "value": "d", "label": "Never — excess oil is not something I deal with" }
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "How does your skin react to products containing alcohol or astringents?",
+    "options": [
+      { "value": "a", "label": "Burns, stings, or turns red — I avoid them" },
+      { "value": "b", "label": "Makes my skin feel very dry and tight" },
+      { "value": "c", "label": "Feels refreshing and helps control shine" },
+      { "value": "d", "label": "No strong reaction either way" }
+    ]
+  },
+  {
+    "id": "q12",
+    "question": "How would you describe your T-zone (forehead, nose, and chin) specifically?",
+    "options": [
+      { "value": "a", "label": "Very oily with large pores and frequent blackheads" },
+      { "value": "b", "label": "Oilier than my cheeks but not excessively so" },
+      { "value": "c", "label": "Dry or normal — my whole face is similar" },
+      { "value": "d", "label": "Reactive and prone to redness, regardless of oiliness" }
+    ]
+  },
+  {
+    "id": "q13",
+    "question": "How does your skin respond to cold, dry, or windy weather?",
+    "options": [
+      { "value": "a", "label": "Becomes very dry, tight, and may crack or flake" },
+      { "value": "b", "label": "Gets more sensitive, red, and easily irritated" },
+      { "value": "c", "label": "Cheeks dry out but T-zone stays balanced" },
+      { "value": "d", "label": "Doesn't change much — my skin handles weather well" }
+    ]
+  },
+  {
+    "id": "q14",
+    "question": "If you wear makeup, how quickly does it break down or look worn throughout the day?",
+    "options": [
+      { "value": "a", "label": "Very quickly — it slides off or oxidizes due to oil" },
+      { "value": "b", "label": "Breaks down in the T-zone by afternoon" },
+      { "value": "c", "label": "Settles into fine lines or looks cakey on dry patches" },
+      { "value": "d", "label": "Irritates my skin or causes redness — I prefer minimal makeup" }
+    ]
+  },
+  {
+    "id": "q15",
+    "question": "Which statement best describes your overall skin sensitivity?",
+    "options": [
+      { "value": "a", "label": "Very sensitive — reacts to most products, weather changes, and even food" },
+      { "value": "b", "label": "Somewhat sensitive — reacts to specific ingredients like fragrance or acids" },
+      { "value": "c", "label": "Moderately balanced — mostly resilient with occasional reactions" },
+      { "value": "d", "label": "Not very sensitive — my skin adapts easily to most conditions" }
+    ]
+  }
+]

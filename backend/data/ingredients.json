@@ -1,0 +1,328 @@
+{
+  "ingredients": {
+    "water": { "safe": true, "benefit": "Universal solvent and hydrator", "category": "base" },
+    "aqua": { "safe": true, "benefit": "Universal solvent and hydrator", "category": "base" },
+    "glycerin": { "safe": true, "benefit": "Powerful humectant that draws moisture into the skin", "category": "humectant" },
+    "niacinamide": { "safe": true, "benefit": "Reduces pores, controls oil, brightens and strengthens skin barrier", "category": "active" },
+    "hyaluronic acid": { "safe": true, "benefit": "Holds 1000x its weight in water for deep hydration", "category": "humectant" },
+    "ceramide": { "safe": true, "benefit": "Restores and strengthens the skin's natural barrier", "category": "barrier" },
+    "ceramide np": { "safe": true, "benefit": "Skin barrier repair and moisture retention", "category": "barrier" },
+    "ceramide ap": { "safe": true, "benefit": "Skin barrier repair and moisture retention", "category": "barrier" },
+    "ceramide eop": { "safe": true, "benefit": "Skin barrier repair and moisture retention", "category": "barrier" },
+    "vitamin c": { "safe": true, "benefit": "Antioxidant that brightens skin and stimulates collagen", "category": "active" },
+    "ascorbic acid": { "safe": true, "benefit": "Potent antioxidant vitamin C that brightens and protects", "category": "active" },
+    "retinol": { "safe": true, "benefit": "Speeds cell turnover, reduces fine lines and acne", "category": "active", "caution": "Can cause initial irritation, use with caution for sensitive skin" },
+    "retinyl palmitate": { "safe": true, "benefit": "Gentler form of retinol for anti-aging", "category": "active" },
+    "zinc oxide": { "safe": true, "benefit": "Mineral UV filter and anti-inflammatory", "category": "sunscreen" },
+    "titanium dioxide": { "safe": true, "benefit": "Mineral UV filter with soothing properties", "category": "sunscreen" },
+    "aloe vera": { "safe": true, "benefit": "Soothes, hydrates and calms irritated skin", "category": "botanical" },
+    "aloe barbadensis leaf juice": { "safe": true, "benefit": "Soothes, hydrates and calms irritated skin", "category": "botanical" },
+    "green tea extract": { "safe": true, "benefit": "Powerful antioxidant with anti-inflammatory properties", "category": "botanical" },
+    "camellia sinensis leaf extract": { "safe": true, "benefit": "Green tea antioxidant and anti-inflammatory", "category": "botanical" },
+    "centella asiatica extract": { "safe": true, "benefit": "Calming adaptogen that repairs and soothes sensitive skin", "category": "botanical" },
+    "panthenol": { "safe": true, "benefit": "Provitamin B5 that hydrates and soothes", "category": "humectant" },
+    "tocopherol": { "safe": true, "benefit": "Vitamin E antioxidant that protects and moisturizes", "category": "antioxidant" },
+    "tocopheryl acetate": { "safe": true, "benefit": "Stable form of vitamin E", "category": "antioxidant" },
+    "jojoba oil": { "safe": true, "benefit": "Balancing oil similar to skin's natural sebum", "category": "emollient" },
+    "simmondsia chinensis seed oil": { "safe": true, "benefit": "Jojoba oil - balancing and moisturizing", "category": "emollient" },
+    "rosehip oil": { "safe": true, "benefit": "Rich in vitamins A and C for brightening and anti-aging", "category": "emollient" },
+    "rosa canina fruit oil": { "safe": true, "benefit": "Rosehip oil rich in antioxidants", "category": "emollient" },
+    "argan oil": { "safe": true, "benefit": "Nourishing oil packed with vitamin E and fatty acids", "category": "emollient" },
+    "argania spinosa kernel oil": { "safe": true, "benefit": "Argan oil - nourishing and protective", "category": "emollient" },
+    "squalane": { "safe": true, "benefit": "Lightweight moisturizer that mimics skin's natural lipids", "category": "emollient" },
+    "shea butter": { "safe": true, "benefit": "Rich emollient that deeply nourishes and protects", "category": "emollient" },
+    "butyrospermum parkii butter": { "safe": true, "benefit": "Shea butter - intensely moisturizing", "category": "emollient" },
+    "lactic acid": { "safe": true, "benefit": "Gentle AHA that exfoliates and hydrates", "category": "exfoliant" },
+    "glycolic acid": { "safe": true, "benefit": "Strongest AHA for resurfacing and brightening", "category": "exfoliant", "caution": "Can cause irritation, avoid for sensitive skin" },
+    "mandelic acid": { "safe": true, "benefit": "Gentle AHA ideal for acne-prone and sensitive skin", "category": "exfoliant" },
+    "salicylic acid": { "safe": true, "benefit": "BHA that unclogs pores and treats acne", "category": "exfoliant" },
+    "azelaic acid": { "safe": true, "benefit": "Treats acne, rosacea and hyperpigmentation", "category": "active" },
+    "tranexamic acid": { "safe": true, "benefit": "Brightens dark spots and evens skin tone", "category": "active" },
+    "kojic acid": { "safe": true, "benefit": "Natural skin brightener that reduces dark spots", "category": "active" },
+    "allantoin": { "safe": true, "benefit": "Soothes and promotes skin healing and regeneration", "category": "soothing" },
+    "bisabolol": { "safe": true, "benefit": "Chamomile-derived calming and anti-inflammatory agent", "category": "soothing" },
+    "sodium hyaluronate": { "safe": true, "benefit": "Smaller form of hyaluronic acid for deeper hydration", "category": "humectant" },
+    "peptides": { "safe": true, "benefit": "Signal proteins that boost collagen production", "category": "active" },
+    "palmitoyl tripeptide-1": { "safe": true, "benefit": "Collagen-boosting peptide for firmer skin", "category": "active" },
+    "acetyl hexapeptide-3": { "safe": true, "benefit": "Relaxing peptide that reduces expression lines", "category": "active" },
+    "ferulic acid": { "safe": true, "benefit": "Antioxidant that enhances vitamin C stability", "category": "antioxidant" },
+    "resveratrol": { "safe": true, "benefit": "Powerful antioxidant with anti-aging properties", "category": "antioxidant" },
+    "beta-glucan": { "safe": true, "benefit": "Deeply hydrating and immune-boosting polysaccharide", "category": "humectant" },
+    "collagen": { "safe": true, "benefit": "Moisturizing protein (topical form hydrates surface)", "category": "humectant" },
+    "elastin": { "safe": true, "benefit": "Moisturizing protein that improves skin elasticity", "category": "humectant" },
+    "licorice root extract": { "safe": true, "benefit": "Brightens skin and soothes inflammation", "category": "botanical" },
+    "glycyrrhiza glabra root extract": { "safe": true, "benefit": "Licorice extract for brightening and calming", "category": "botanical" },
+    "witch hazel": { "safe": true, "benefit": "Natural astringent that minimizes pores", "category": "botanical" },
+    "hamamelis virginiana extract": { "safe": true, "benefit": "Witch hazel - astringent and pore-minimizing", "category": "botanical" },
+    "tea tree oil": { "safe": true, "benefit": "Natural antimicrobial that fights acne-causing bacteria", "category": "botanical" },
+    "melaleuca alternifolia leaf oil": { "safe": true, "benefit": "Tea tree oil - antimicrobial and acne-fighting", "category": "botanical" },
+    "benzoyl peroxide": { "safe": true, "benefit": "Kills acne bacteria and reduces inflammation", "category": "active", "caution": "Can be drying and irritating, use sparingly" },
+    "dimethicone": { "safe": true, "benefit": "Silicone that creates a smooth protective barrier", "category": "emollient" },
+    "cyclopentasiloxane": { "safe": true, "benefit": "Lightweight silicone that improves product texture", "category": "emollient" },
+    "sodium pca": { "safe": true, "benefit": "Natural moisturizing factor that hydrates skin", "category": "humectant" },
+    "urea": { "safe": true, "benefit": "Humectant and gentle exfoliant at higher concentrations", "category": "humectant" },
+    "propolis extract": { "safe": true, "benefit": "Bee-derived antibacterial and healing agent", "category": "botanical" },
+    "snail secretion filtrate": { "safe": true, "benefit": "Repairs skin, fades scars and hydrates", "category": "active" },
+    "bakuchiol": { "safe": true, "benefit": "Plant-based retinol alternative, gentler on skin", "category": "active" },
+    "polyglutamic acid": { "safe": true, "benefit": "Powerful humectant 4x more effective than hyaluronic acid", "category": "humectant" },
+    "tremella fuciformis extract": { "safe": true, "benefit": "Snow mushroom extract - superior hydrator", "category": "botanical" },
+    "alcohol denat": {
+      "safe": false,
+      "reason": "Denatured alcohol can strip natural oils, disrupt skin barrier, and cause dryness and irritation",
+      "severity": "medium",
+      "category": "alcohol",
+      "skinTypes": ["Dry", "Sensitive", "Combination"]
+    },
+    "sd alcohol": {
+      "safe": false,
+      "reason": "Drying alcohol that strips natural oils and disrupts the skin barrier",
+      "severity": "medium",
+      "category": "alcohol",
+      "skinTypes": ["Dry", "Sensitive"]
+    },
+    "isopropyl alcohol": {
+      "safe": false,
+      "reason": "Highly drying alcohol that can damage skin barrier function",
+      "severity": "high",
+      "category": "alcohol",
+      "skinTypes": ["Dry", "Sensitive", "Combination", "Oily"]
+    },
+    "ethanol": {
+      "safe": false,
+      "reason": "Drying alcohol that can cause irritation with frequent use",
+      "severity": "medium",
+      "category": "alcohol",
+      "skinTypes": ["Dry", "Sensitive"]
+    },
+    "fragrance": {
+      "safe": false,
+      "reason": "Synthetic fragrances are a leading cause of skin irritation, contact dermatitis and allergic reactions",
+      "severity": "high",
+      "category": "fragrance",
+      "skinTypes": ["Sensitive", "Dry"]
+    },
+    "parfum": {
+      "safe": false,
+      "reason": "Parfum (fragrance) can trigger allergic reactions and irritation, especially for sensitive skin",
+      "severity": "high",
+      "category": "fragrance",
+      "skinTypes": ["Sensitive", "Dry"]
+    },
+    "essential oils": {
+      "safe": false,
+      "reason": "Concentrated essential oils can cause phototoxicity, irritation, and allergic reactions",
+      "severity": "medium",
+      "category": "fragrance",
+      "skinTypes": ["Sensitive"]
+    },
+    "sodium lauryl sulfate": {
+      "safe": false,
+      "reason": "Harsh surfactant known to strip natural oils, disrupt skin barrier and cause irritation",
+      "severity": "high",
+      "category": "surfactant",
+      "skinTypes": ["Dry", "Sensitive", "Combination"]
+    },
+    "sls": {
+      "safe": false,
+      "reason": "Sodium lauryl sulfate - harsh surfactant that strips and irritates skin",
+      "severity": "high",
+      "category": "surfactant",
+      "skinTypes": ["Dry", "Sensitive"]
+    },
+    "sodium laureth sulfate": {
+      "safe": false,
+      "reason": "Can be harsh and may contain harmful byproducts; irritating to sensitive skin",
+      "severity": "medium",
+      "category": "surfactant",
+      "skinTypes": ["Sensitive", "Dry"]
+    },
+    "formaldehyde": {
+      "safe": false,
+      "reason": "Known carcinogen and potent allergen banned in many countries",
+      "severity": "high",
+      "category": "preservative",
+      "skinTypes": ["Oily", "Dry", "Combination", "Sensitive"]
+    },
+    "parabens": {
+      "safe": false,
+      "reason": "Potential endocrine disruptors linked to hormonal disruption",
+      "severity": "medium",
+      "category": "preservative",
+      "skinTypes": ["Sensitive"]
+    },
+    "methylparaben": {
+      "safe": false,
+      "reason": "Paraben preservative linked to hormonal disruption and skin irritation",
+      "severity": "medium",
+      "category": "preservative",
+      "skinTypes": ["Sensitive"]
+    },
+    "propylparaben": {
+      "safe": false,
+      "reason": "Paraben preservative with potential endocrine-disrupting properties",
+      "severity": "medium",
+      "category": "preservative",
+      "skinTypes": ["Sensitive"]
+    },
+    "butylparaben": {
+      "safe": false,
+      "reason": "Strongest paraben - highest concern for hormonal disruption",
+      "severity": "high",
+      "category": "preservative",
+      "skinTypes": ["Sensitive", "Dry"]
+    },
+    "oxybenzone": {
+      "safe": false,
+      "reason": "Chemical UV filter linked to hormonal disruption and coral reef damage",
+      "severity": "high",
+      "category": "sunscreen",
+      "skinTypes": ["Sensitive"]
+    },
+    "octinoxate": {
+      "safe": false,
+      "reason": "Chemical UV filter that may disrupt hormones and irritate sensitive skin",
+      "severity": "medium",
+      "category": "sunscreen",
+      "skinTypes": ["Sensitive"]
+    },
+    "benzophenone": {
+      "safe": false,
+      "reason": "Chemical filter with potential carcinogenic properties",
+      "severity": "high",
+      "category": "sunscreen",
+      "skinTypes": ["Sensitive"]
+    },
+    "mineral oil": {
+      "safe": false,
+      "reason": "Heavy occlusive that can clog pores and cause breakouts in acne-prone skin",
+      "severity": "medium",
+      "category": "emollient",
+      "skinTypes": ["Oily", "Combination"]
+    },
+    "petrolatum": {
+      "safe": false,
+      "reason": "Can be comedogenic (pore-clogging) for oily and acne-prone skin types",
+      "severity": "low",
+      "category": "emollient",
+      "skinTypes": ["Oily", "Combination"]
+    },
+    "lanolin": {
+      "safe": false,
+      "reason": "Wool-derived ingredient that can cause allergic reactions in sensitive individuals",
+      "severity": "low",
+      "category": "emollient",
+      "skinTypes": ["Sensitive"]
+    },
+    "cocamidopropyl betaine": {
+      "safe": false,
+      "reason": "Can cause contact dermatitis and eye irritation in some individuals",
+      "severity": "low",
+      "category": "surfactant",
+      "skinTypes": ["Sensitive"]
+    },
+    "triclosan": {
+      "safe": false,
+      "reason": "Antimicrobial linked to antibiotic resistance and endocrine disruption; banned in many products",
+      "severity": "high",
+      "category": "preservative",
+      "skinTypes": ["Oily", "Dry", "Combination", "Sensitive"]
+    },
+    "hydroquinone": {
+      "safe": false,
+      "reason": "Controversial skin-lightening agent linked to ochronosis with long-term use; restricted in many countries",
+      "severity": "high",
+      "category": "active",
+      "skinTypes": ["Sensitive"]
+    },
+    "lead acetate": {
+      "safe": false,
+      "reason": "Heavy metal with serious health risks; banned in cosmetics in many regions",
+      "severity": "high",
+      "category": "colorant",
+      "skinTypes": ["Oily", "Dry", "Combination", "Sensitive"]
+    },
+    "phthalates": {
+      "safe": false,
+      "reason": "Plasticizers linked to endocrine disruption; often hidden in 'fragrance'",
+      "severity": "high",
+      "category": "plasticizer",
+      "skinTypes": ["Sensitive"]
+    },
+    "diethanolamine": {
+      "safe": false,
+      "reason": "Can react with other ingredients to form potentially carcinogenic nitrosamines",
+      "severity": "high",
+      "category": "emulsifier",
+      "skinTypes": ["Oily", "Dry", "Combination", "Sensitive"]
+    },
+    "triethanolamine": {
+      "safe": false,
+      "reason": "pH adjuster that can form harmful nitrosamines and irritate skin",
+      "severity": "medium",
+      "category": "emulsifier",
+      "skinTypes": ["Sensitive", "Dry"]
+    },
+    "polyethylene glycol": {
+      "safe": false,
+      "reason": "May contain harmful contaminants; can enhance penetration of other ingredients",
+      "severity": "low",
+      "category": "emulsifier",
+      "skinTypes": ["Sensitive"]
+    },
+    "bha": {
+      "safe": false,
+      "reason": "Butylated hydroxyanisole - potential carcinogen and endocrine disruptor",
+      "severity": "high",
+      "category": "preservative",
+      "skinTypes": ["Sensitive"]
+    },
+    "coal tar": {
+      "safe": false,
+      "reason": "Known carcinogen used in dandruff treatments; banned in many countries",
+      "severity": "high",
+      "category": "active",
+      "skinTypes": ["Oily", "Dry", "Combination", "Sensitive"]
+    },
+    "mercury": {
+      "safe": false,
+      "reason": "Toxic heavy metal that can cause serious health problems; illegal in cosmetics",
+      "severity": "high",
+      "category": "preservative",
+      "skinTypes": ["Oily", "Dry", "Combination", "Sensitive"]
+    },
+    "talc": {
+      "safe": false,
+      "reason": "May be contaminated with asbestos; linked to respiratory issues",
+      "severity": "medium",
+      "category": "filler",
+      "skinTypes": ["Sensitive"]
+    },
+    "polysorbate 80": {
+      "safe": false,
+      "reason": "Emulsifier that can disrupt skin microbiome and cause irritation in sensitive skin",
+      "severity": "low",
+      "category": "emulsifier",
+      "skinTypes": ["Sensitive"]
+    },
+    "phenoxyethanol": {
+      "safe": false,
+      "reason": "Common preservative that can cause allergic reactions at higher concentrations",
+      "severity": "low",
+      "category": "preservative",
+      "skinTypes": ["Sensitive"]
+    },
+    "propylene glycol": {
+      "safe": false,
+      "reason": "Can cause contact dermatitis in sensitive individuals at high concentrations",
+      "severity": "low",
+      "category": "humectant",
+      "skinTypes": ["Sensitive"]
+    }
+  },
+  "skinTypeRisks": {
+    "Oily": ["mineral oil", "petrolatum", "isopropyl alcohol", "lanolin", "coconut oil"],
+    "Dry": ["alcohol denat", "sd alcohol", "sodium lauryl sulfate", "fragrance", "parfum", "isopropyl alcohol"],
+    "Combination": ["alcohol denat", "mineral oil", "sodium lauryl sulfate"],
+    "Sensitive": ["fragrance", "parfum", "alcohol denat", "sodium lauryl sulfate", "parabens", "methylparaben", "propylparaben", "butylparaben", "oxybenzone", "essential oils", "phenoxyethanol", "propylene glycol", "polysorbate 80", "lanolin", "cocamidopropyl betaine", "retinol", "glycolic acid"]
+  }
+}

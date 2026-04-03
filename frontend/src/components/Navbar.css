@@ -1,0 +1,122 @@
+.navbar {
+  background: rgba(255, 251, 247, 0.92);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.navbar-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
+  height: 68px;
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+
+.navbar-logo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+
+.logo-icon {
+  font-size: 1.4rem;
+  color: var(--peach-dark);
+}
+
+.logo-text {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--text-dark);
+  letter-spacing: -0.02em;
+}
+
+.navbar-links {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex: 1;
+}
+
+.nav-link {
+  padding: 7px 16px;
+  border-radius: var(--radius-sm);
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--text-mid);
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+
+.nav-link:hover {
+  background: var(--peach-lighter);
+  color: var(--peach-deep);
+  text-decoration: none;
+}
+
+.nav-link.active {
+  background: var(--peach-light);
+  color: var(--peach-deep);
+  font-weight: 600;
+}
+
+.nav-link-admin {
+  color: var(--peach-deep);
+  border: 1.5px solid var(--peach);
+}
+
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-left: auto;
+}
+
+.nav-avatar {
+  width: 36px;
+  height: 36px;
+  background: linear-gradient(135deg, var(--peach), var(--peach-dark));
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-decoration: none;
+  transition: transform 0.2s;
+  flex-shrink: 0;
+}
+
+.nav-avatar:hover {
+  transform: scale(1.05);
+}
+
+.nav-logout {
+  background: none;
+  border: 1.5px solid var(--border-dark);
+  color: var(--text-mid);
+  padding: 7px 16px;
+  border-radius: var(--radius-sm);
+  font-size: 0.85rem;
+  font-weight: 500;
+  transition: all 0.15s;
+}
+
+.nav-logout:hover {
+  border-color: var(--red-danger);
+  color: var(--red-danger);
+  background: var(--red-light);
+}
+
+@media (max-width: 768px) {
+  .navbar-links { display: none; }
+  .navbar-container { gap: 16px; }
+}

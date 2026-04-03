@@ -1,0 +1,123 @@
+
+.recs-page {
+  padding: 40px 0 80px;
+}
+
+.recs-header {
+  margin-bottom: 24px;
+}
+
+.recs-title {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.recs-sub {
+  color: var(--text-light);
+  font-size: 0.95rem;
+}
+
+.filter-tabs {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 28px;
+}
+
+.filter-tab {
+  background: white;
+  border: 1.5px solid var(--border);
+  color: var(--text-mid);
+  padding: 8px 18px;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  transition: all 0.15s;
+}
+
+.filter-tab:hover {
+  border-color: var(--peach);
+  background: var(--peach-lighter);
+}
+
+.filter-tab.active {
+  background: var(--peach-light);
+  border-color: var(--peach-dark);
+  color: var(--peach-deep);
+  font-weight: 600;
+}
+
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.product-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.product-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-md);
+}
+
+.product-type-badge {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--peach-deep);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.product-name {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--text-dark);
+  margin: 0;
+}
+
+.product-desc {
+  font-size: 0.88rem;
+  color: var(--text-mid);
+  line-height: 1.6;
+  flex: 1;
+}
+
+.product-compatibility {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.compat-tag {
+  background: var(--sand);
+  color: var(--text-mid);
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+
+.product-buy-btn {
+  display: inline-block;
+  background: linear-gradient(135deg, var(--peach-dark), var(--peach-deep));
+  color: white;
+  padding: 10px 20px;
+  border-radius: var(--radius-sm);
+  font-size: 0.88rem;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 4px;
+  transition: opacity 0.2s;
+}
+
+.product-buy-btn:hover {
+  opacity: 0.9;
+  text-decoration: none;
+}
